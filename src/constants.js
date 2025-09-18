@@ -22,6 +22,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/modulation.png';
 
+
 // Education Section Logo's
 import glaLogo from './assets/education_logo/btkit.png';
 import bsaLogo from './assets/education_logo/ggp.png';
