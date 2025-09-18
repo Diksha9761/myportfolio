@@ -30,7 +30,7 @@ import vpsLogo from './assets/education_logo/svm.jpg';
 
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/social app.png';
-import npmLogo from './assets/work_logo/portfolio.png';
+import portfolio from './assets/work_logo/portfolio.png';
 
 
 export const SkillsInfo = [
@@ -142,7 +142,7 @@ export const SkillsInfo = [
       title: "porfolio website",
       description:
         "A modern and respective personal portfolio website built with React.js, Tailwind CSS, and Vite to showcase my skills,projects,and contact information.",
-      image: npmLogo,
+      image: portfolio,
       tags: ["HTML", "CSS", "JavaScript", "React JS"],
       github: "https://github.com/Diksha9761",
       webapp: "https://myportfolio-nine-ivory-60.vercel.app/",
