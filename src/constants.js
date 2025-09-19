@@ -84,7 +84,7 @@ export const SkillsInfo = [
       role: "Fullstack Developer",
       company: "Digital Modulation",
       date: "May2025 - June2025",
-      desc: "Design and develop a personal portfolio website to showcase academic background, technical skills and project work.",
+      desc: "Worked on developing and enhancing web applications using HTML, CSS, JavaScript, and Node.js. Implemented responsive UI, integrated APIs, and managed databases with SQL/NoSQL. Used Git for version control and collaborated on full-stack development tasks.",
       skills: [
         "HTML",
         "CSS",
