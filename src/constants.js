@@ -113,7 +113,7 @@ export const SkillsInfo = [
       date: "2020 - 2022",
       grade: "85%",
       desc: "I have completed my Deploma in Information Technology from Girls Polytechnic Almora.",
-      degree: "Deploma",
+      degree: "Diploma",
     },
     {
       id: 3,
