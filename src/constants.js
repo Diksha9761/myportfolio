@@ -139,7 +139,7 @@ export const SkillsInfo = [
       webapp: "https://mern-social-platform-app.onrender.com",
     },
     {
-      id: 0,
+      id: 1,
       title: "porfolio website",
       description:
         "A modern and respective personal portfolio website built with React.js, Tailwind CSS, and Vite to showcase my skills,projects,and contact information.",
